@@ -19,7 +19,12 @@ npm init
 npm install electron --save-dev
 
 ```
-3. Package and Distribute Your App
+
+3. Run your App
+```bash
+
+```
+4. Package and Distribute Your App
 
 #### Resources  
 1. [Electron](https://www.electronjs.org/docs/latest/tutorial/tutorial-prerequisites)
