@@ -22,7 +22,7 @@ npm install electron --save-dev
 
 3. Run your App
 ```bash
-
+npm start
 ```
 4. Package and Distribute Your App
 
